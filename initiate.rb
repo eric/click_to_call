@@ -1,6 +1,7 @@
 
 require 'drb'
 require 'yaml'
+require 'uri'
 
 source_number = ARGV[0]
 dest_number = ARGV[1]
