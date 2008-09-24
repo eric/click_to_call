@@ -1,5 +1,8 @@
 Start your new app with "ahn start /path/to/your/app"
 
+Copy "local_config.yml.template" to "local_config.yml" and make sure the
+settings are correct for your installation.
+
 To initiate a call, run:
 
  $ ruby initiate.rb 2065551212 2095551212
