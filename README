@@ -1,0 +1,6 @@
+Start your new app with "ahn start /path/to/your/app"
+
+To initiate a call, run:
+
+ $ ruby initiate.rb 2065551212 2095551212
+

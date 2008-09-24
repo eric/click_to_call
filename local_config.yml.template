@@ -1,0 +1,11 @@
+outgoing_context: outgoing-283
+caller_id: 2063576220
+drb:
+ port: 24257
+ami:
+ host: vox4.cloudvox.com
+ port: 13539
+ username: manager
+ password: "050e296348b37ff" 
+agi:
+ listening_port: 4573
